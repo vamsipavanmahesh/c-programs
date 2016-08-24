@@ -1,0 +1,8 @@
+macros-1.c - represents a declaration of the basic macro 
+
+macro-function.c - basic macro function 
+
+macro-function-eval - tells you how arguments are not evaluated before passsing 
+
+macro-merge - using token pasting operator 
+
